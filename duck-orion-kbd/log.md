@@ -10,6 +10,20 @@ swapping.  The SIP sockets are just a little too short to comfortably fit the
 Orion's through holes. I'll have to see about changing my source when I'm out
 of these.
 
+:construction worker: WIP :construction:
+
+* [x] Parts received
+* [x] Switches prepared
+* [ ] Stabilizers modified
+* [ ] Stabilizers installed
+* [ ] Switches installed
+* [ ] Switches soldered
+* [ ] LEDs installed
+* [ ] Firmware and layout flashed and tested
+* [ ] Case assembled
+* [ ] Keycaps placed
+
+
 ## The Specs
 
 * Silver annodized aluminum case
