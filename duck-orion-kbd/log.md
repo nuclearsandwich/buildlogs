@@ -27,6 +27,24 @@ The Adventures of Pete and Pete and Clarissa Explains it All. I can see why
 heavy builders like the switch lubing stations and I think I'm gonna need to
 get one.
 
+To lubricate the switches, I split the stems and bases into one tupperware, and the switch tops (and old springs but they're not terribly important) into another. I then set up a little assembly line of ten switches at a time.
+
+<img src="pics/switch-lubing.jpg" alt="switch lubing" width="400px">
+
+1. Apply oil to the switch base.
+2. Apply a small amount of Krytox to the sides of the switch base that contact the slider.
+3. Apply oil to the spring inside, around and at the two ends, then set the spring in the base.
+4. Place SIP sockets.
+5. Apply Oil to slider stem.
+6. Apply a small amount of Krytox to the two sides of the slider that will touch the base.
+7. Place the slider on the spring and base.
+8. Place the top on the switch and shut it.
+9. Insert an LED into the SIP sockets. (Optional but useful for holding the sockets in place while soldering later.
+
+<img src="pics/88-lubricated-cherries.jpg" alt="88-lubricated-cherries" width="400px">
+
+To do the above for ten loose switches took about 35 minutes.
+
 I also think I need to be more generous with the Krytox as the amount purchased was intended to do a fullsize keyboard and I had just under half left when I finished 88 switches.
 
 <img src="pics/remaining-krytox.jpg" alt="remaining krytox" width="400px">
@@ -37,16 +55,20 @@ SMD soldering and microcontroller flashing are all done by the factory for this
 board so all I needed to do was solder in the switches with LEDs. Sadly, I
 screwed even that up.
 
-I actually put this keyboard together with tactile greys and brought it to
-KeyCon West, I was fairly certain it would be the only Orion and wanted to at
-least show off Duck's design and solid construction relative to the KMAC and
-456GT that would be there. Sadly, in my haste to build the keyboard once my
-switches were finally ready, I forgot to remove and clip-mod the stabilizers.
-Luckily I'd only done the four corners and the Backspace, so desoldering isn't
-a huge undertaking. After being unable to effectively free the switches using
-my soldapolt, I am however, shelving the project pending the delivery of my
-Hakko 808 desoldering gun which I have ordered in anticipation of my next
-projects which are all refurbishments of vintage keyboards.
+<img src="pics/pcb-in-sunlight.jpg" alt="pcb in sunlight" width="400px">
+
+I actually put this keyboard together without soldering using tactile greys and
+brought it to KeyCon West. I was fairly certain it would be the only Orion and
+wanted to at least show off Duck's design and solid construction relative to
+the KMAC and 456GT that would be there. Sadly, in my haste to build the
+keyboard once my switches were finally ready, I forgot to remove and clip-mod
+the stabilizers.  Luckily I'd only done the four corners and the Backspace, so
+desoldering isn't a huge undertaking. After being unable to effectively free
+the switches using my soldapult, I am however, shelving the project pending the
+delivery of my Hakko 808 desoldering gun which I have ordered in anticipation
+of my next projects which are all refurbishments of vintage keyboards.
+
+<img src="pics/persistent-switch.jpg" alt="persistent switch" width="400px">
 
 # Photo Album
 
