@@ -43,9 +43,10 @@ To lubricate the switches, I split the stems and bases into one tupperware, and 
 
 <img src="pics/88-lubricated-cherries.jpg" alt="88-lubricated-cherries" width="400px">
 
-To do the above for ten loose switches took about 35 minutes.
-
-I also think I need to be more generous with the Krytox as the amount purchased was intended to do a fullsize keyboard and I had just under half left when I finished 88 switches.
+To do the above for ten loose switches took about 35 minutes.  I also think I
+need to be more generous with the Krytox as the amount purchased was intended
+to do a fullsize keyboard and I had just under half left when I finished 88
+switches. Another thing that will be really helpful is getting a better quality fine tip brush for the oil. The extra brush that came with some Krytox worked well enough but it'll be easier to lubricate the inside of the stem barrel with a brush that doesn't fray after 30 minutes' use.
 
 <img src="pics/remaining-krytox.jpg" alt="remaining krytox" width="400px">
 
