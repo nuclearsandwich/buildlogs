@@ -27,6 +27,10 @@ The Adventures of Pete and Pete and Clarissa Explains it All. I can see why
 heavy builders like the switch lubing stations and I think I'm gonna need to
 get one.
 
+I also think I need to be more generous with the Krytox as the amount purchased was intended to do a fullsize keyboard and I had just under half left when I finished 88 switches.
+
+![remaining krytox](pics/remaining-krytox.jpg)
+
 ## Assembling the PCB
 
 SMD soldering and microcontroller flashing are all done by the factory for this
@@ -43,3 +47,7 @@ a huge undertaking. After being unable to effectively free the switches using
 my soldapolt, I am however, shelving the project pending the delivery of my
 Hakko 808 desoldering gun which I have ordered in anticipation of my next
 projects which are all refurbishments of vintage keyboards.
+
+# Photo Album
+
+https://www.dropbox.com/sc/kof3wk6grzxvwqa/AAATMVg9Wd3UK6yHafjt-7A4a
