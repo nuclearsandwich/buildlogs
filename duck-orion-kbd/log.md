@@ -29,6 +29,7 @@ get one.
 
 I also think I need to be more generous with the Krytox as the amount purchased was intended to do a fullsize keyboard and I had just under half left when I finished 88 switches.
 
+<img src="pics/remaining-krytox.jpg" alt="remaining krytox" width="400px">
 ![remaining krytox](pics/remaining-krytox.jpg)
 
 ## Assembling the PCB
