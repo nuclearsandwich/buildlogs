@@ -10,7 +10,7 @@ swapping.  The SIP sockets are just a little too short to comfortably fit the
 Orion's through holes. I'll have to see about changing my source when I'm out
 of these.
 
-:construction_worker: WIP :construction:
+## :construction_worker: WIP :construction:
 
 * [x] Parts received
 * [x] Switches prepared
