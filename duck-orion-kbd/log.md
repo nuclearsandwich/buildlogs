@@ -10,20 +10,6 @@ swapping.  The SIP sockets are just a little too short to comfortably fit the
 Orion's through holes. I'll have to see about changing my source when I'm out
 of these.
 
-## :construction_worker: WIP :construction:
-
-* [x] Parts received
-* [x] Switches prepared
-* [ ] Stabilizers modified
-* [ ] Stabilizers installed
-* [ ] Switches installed
-* [ ] Switches soldered
-* [ ] LEDs installed
-* [ ] Firmware and layout flashed and tested
-* [ ] Case assembled
-* [ ] Keycaps placed
-
-
 ## The Specs
 
 * Silver annodized aluminum case
@@ -84,6 +70,29 @@ delivery of my Hakko 808 desoldering gun which I have ordered in anticipation
 of my next projects which are all refurbishments of vintage keyboards.
 
 <img src="pics/persistent-switch.jpg" alt="persistent switch" width="400px">
+
+Got the board desoldered. Even with the Hakko 808 doing the hard work a little bit of downward force is required while heat is applied to both LED pins to remove the switch.
+
+<img src="pics/cherry-stabilizer-spring-bits.jpg" alt="cherry stabilizer spring bits" width="400px">
+
+If it wasn't for these stupid things I would have finished this build last week.
+
+Once the stabilizers were modified, I resoldered the four corner switches and the backspace, which is the "FLIP key" needed to flash the firmware. After that was done I plugged the PCB in to spot check the firmware. The last thing I want to do is solder 88 switches into a keyboard with a bricked bootloader or something. The four corners all worked and the FLIP key switched it to program mode so everything looked :a: :ok:. So I began soldering in the rest of the switches.
+
+Because I'm a dufus, I wanted to get the modifers and other keys with multiple possible positions in first and be double sure that they were in the right place. So I started with the modifiers. Because my spatial reasoning is not what it should be in spite of two decades of video games, I determined which switch holes to use for consistent 1.25 mod spacing completely emperically.
+
+<img src="pics/modifier-switches-left.jpg" alt="left modifier switches" width="400px">
+<img src="pics/modifier-switches-right.jpg" alt="right modifier switches" width="400px">
+
+Once the switches were in and looked :thumbsup:, I soldered them. I then immediately checked them by sticking the Granite modifiers on.
+
+<img src="pics/granite-modifer-check-left.jpg" alt="left modifier check" width="400px">
+<img src="pics/granite-modifer-check-right.jpg" alt="right modifier check" width="400px">
+
+Now that the modifiers were on in the right place, it was time to solder the bulk of the switches. In order to do so, I first had to clip all the LED leads I'd neglected to clip during the switch lubrication and assembly phase.
+
+<img src="pics/leds-cut-to-fit.jpg" alt="LEDs cut to fit" width="400px">
+
 
 # Photo Album
 
