@@ -93,6 +93,16 @@ Now that the modifiers were on in the right place, it was time to solder the bul
 
 <img src="pics/leds-cut-to-fit.jpg" alt="LEDs cut to fit" width="400px">
 
+<img src="pics/soldered-pcb.jpg" alt="soldered pcb" width="400px">
+
+
+Soldering in all the switches was nice fun work. I watched The Incredibles.
+
+ When it was done, I plugged in the PCB and tested the LEDs and switches. Some of the right modifiers and the centered caps lock needed their LED polarity swapped. Which was easy to do with nothing more than a needlenose thanks to the SIP sockets. Even after checking polarity, some LEDs and two switches didn't work. As is usual for me, this was down to missing a few solder joints. A quick trip back to the bench fixed those up and soon we were in business! Sadly, this was about 1:00am and I was due to get in a car for four hours at 3:30am and do work during that drive. So I decided to call it a night before assembling the case.
+
+
+
+
 
 # Photo Album
 
