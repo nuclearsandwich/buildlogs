@@ -100,9 +100,30 @@ Soldering in all the switches was nice fun work. I watched The Incredibles.
 
  When it was done, I plugged in the PCB and tested the LEDs and switches. Some of the right modifiers and the centered caps lock needed their LED polarity swapped. Which was easy to do with nothing more than a needlenose thanks to the SIP sockets. Even after checking polarity, some LEDs and two switches didn't work. As is usual for me, this was down to missing a few solder joints. A quick trip back to the bench fixed those up and soon we were in business! Sadly, this was about 1:00am and I was due to get in a car for four hours at 3:30am and do work during that drive. So I decided to call it a night before assembling the case.
 
+## Putting it in its case
 
+Before assembly I took some time to clean flux from the back of the PCB using a bit of rubbing alcohol.
 
+<img src="pics/scrubbing-the-pcb.jpg" alt="scrubbing the pcb" width="400px">
 
+Case assembly was all but effortless.  The plate is fixed to the top, lighter, half of the case and is mounted in ten places. Then the bottom case is mounted to the top case using hex bolts. All the hardware came with the kit, as well as a few spares. I neglected to ID the fasteners themselves. I'll make an effort to do so for future builds.
+
+The only assembly-time modification I made was to place some drawer liner in the bottom case of the Orion. The thing is so solid I'm not sure if it makes any difference. But after it dulled the resonating in my old Zenith it's become standard procedure for me. One caveat when lining Duck's customs is that you need to make sure the underlighting LEDs remain uncovered. I did this just by cutting a ring out around each one.
+
+Once it all came together, I spent a few minutes swapping LEDs around to match the Space Cadet ([Deskthority.net Round 4(](http://deskthority.net/wiki/Doubleshot_Replacements_Round_4)) with warm white on the grey alphanumerics and blue on the modifiers.
+
+Before assembly I took some time to clean flux from the back of the PCB using a bit of rubbing alcohol.
+
+<img src="pics/swapping-leds.jpg" alt="swapping LEDs" width="400px"> 
+
+I still haven't managed to take a photo that really captures the backlighting. This cell phone picture is as good as it gets:
+
+<img src="pics/backlit-cellpic.jpg" alt="backlit cell phone picture" width="400px">
+
+This was my at home driver for several weeks until my father's keyboard died and I did a bit of shuffling. Now my brother uses it. I need to liberate it from him.
+
+<img src="pics/innit-purdy.jpg" alt="pretty picture of the Orion" width="400px">
+<img src="pics/orion-on-display.jpg" alt="another display shot of the Orion" width="400px">
 
 # Photo Album
 
