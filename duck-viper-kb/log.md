@@ -1,3 +1,52 @@
+# Duck Viper 59-key
+
+This is the second Duck keyboard I've had the pleasure to assemble and the first with a tray style case. I've taken apart an Duck Mini v2 in order to eventually convert it to Alps when I get a set of adequate keycaps. I might also convert the Viper someday, but I need to get a keycap set that supports HHKB layout for Alps and the odds of that don't thrill me.
+
+## The Specs
+
+* Blue-grey annodized aluminum case
+* 59 Key layout, 1 1.5 7 1.5 1 bottom row
+* Standard QWERTY, fully programmable with LED and hardware macros
+* Cherry MX White, stock springs, SIP socket inserts for LEDs
+* Cherry Stabilizers, clip-modded
+* Drawer liner for sound dampening
+
+## Switch Choices
+
+Up until the day I decided to build this, I had no clear idea what switches I wanted in it. Of the MX switches, I'm currently most intrigued by jailhouse-modded blues and lubed blacks. However, my attempts at jailhouse modding have been slow and inconsistent and I could only find 50 MX black swithces when I know I've got at least 100 floating around somewhere. So instead I decided to go with stock MX whites. I still needed to open the switches for SIP socket placement but it was way less intensive than lubricating the switches for the Orion.
+
+<img width="400" src="pics/mx-whites-in-plate.jpg" alt="mx whites in switch plate">
+
+<img width="400" src="pics/workspace.jpg" alt="my cramped workspace">
+
+My workspace is a bit cramped, as you can see, so I didn't take as many photos during assembly. I haven't been lucky enough to get a set of Beast tools. I hope when I do they work more comfortably than these binder clips.
+
+<img width="400" src="pics/switches-and-tool.jpg" alt="switches and homemade opening tool">
+
+## PCB Assembly
+
+So PCB assembly was going smoothly, again, once all the switches were seated, I checked the spacing on all the troublesome keys like shifts and modifiers and everything was :thumbsup:. Once the four corners were soldered in, I went and tested connecting the PCB to a computer. In order to do so I had to go back and solder the caps-lock key, which is the viper's FLIP programming key.
+
+After all *that*, I finally noticed that one of the switch pins wasn't through the hole properly. And of course it was a switch in a pretty central part of the PCB. So I ended up desoldering everything, unbended that pin and then trying really hard to seat all the pins again.
+
+The first lesson I learned on this project is *never* don't check every single through hole before starting to solder. I could have saved so much time and frustration if I'd identified that immediately.
+
+
+<img width="400" src="pics/get-bent.jpg" alt="this switch can get bent (again)">
+
+Once that was dealth with the rest of the PCB went together lickety split.
+
+## Testing and uploading firmware
+
+## At work the next day
+
+After testing the keyboard, I was pretty excited to bring it into work. I didn't get a chance to type on it before it started spamming out asdfghasdfghasdfgh... and brought my computer to a crazy halt. It took me aages to find the problem but I eventually did and thus went my first encounter with a solder whisker. I guess I didn't clean the PCB with alcohol sufficient for the amount of flux I used in some parts of the rework.
+
+### Photo Album
+
+https://www.dropbox.com/sc/hemn93ewheqos8p/AAAvEcANTRXMNaRpTaM01SCja
+
+
 ### Random note to self
 
 Used a 1/16 alan key to fasten bolts. Not sure yet if they're actually metric or not.
