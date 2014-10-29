@@ -17,7 +17,7 @@ Up until the day I decided to build this, I had no clear idea what switches I wa
 
 <img width="400" src="pics/mx-whites-in-plate.jpg" alt="mx whites in switch plate">
 
-<img width="400" src="pics/workspace.jpg" alt="my cramped workspace">
+<img width="400" src="pics/workspace-and-tools.jpg" alt="my cramped workspace">
 
 My workspace is a bit cramped, as you can see, so I didn't take as many photos during assembly. I haven't been lucky enough to get a set of Beast tools. I hope when I do they work more comfortably than these binder clips.
 
