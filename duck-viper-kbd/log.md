@@ -64,6 +64,15 @@ When evaluating whether to use stock spring MX Whites or MX Black spring MX Whit
 https://www.dropbox.com/sc/hemn93ewheqos8p/AAAvEcANTRXMNaRpTaM01SCja
 
 
-### Random note to self
+#### Tools used
 
-Used a 1/16 alan key to fasten bolts. Not sure yet if they're actually metric or not. Does anyone know how to identify fasteners?
+- Hakko FX-888D
+- Panavise PCB stand
+- Larson hand tools
+- Modified binder clip (for switch opening)
+- Edsyn Soldapullt
+- Desoldering braid
+- Edsyn Fume extractor
+- Tupperware trays
+- 1/16in Alan key
+- Keycap puller
